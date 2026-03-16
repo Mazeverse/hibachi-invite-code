@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0c0711"/>
+      <stop offset="50%" stop-color="#261334"/>
+      <stop offset="100%" stop-color="#0b0610"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="20%" cy="15%" r="40%">
+      <stop offset="0%" stop-color="#9d5cff" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#9d5cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="82%" cy="72%" r="35%">
+      <stop offset="0%" stop-color="#63ffb9" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#63ffb9" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow1)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+  <rect x="105" y="120" width="990" height="390" rx="28" fill="#16101f" stroke="rgba(255,255,255,0.12)"/>
+  <text x="140" y="205" fill="#ffd7e5" font-size="26" font-family="Arial, Helvetica, sans-serif" letter-spacing="4">ENTER THE HIBACHI REALM</text>
+  <text x="140" y="290" fill="#ffffff" font-size="68" font-weight="700" font-family="Arial, Helvetica, sans-serif">Hibachi Invite Code</text>
+  <rect x="140" y="340" width="450" height="90" rx="18" fill="#120b18" stroke="rgba(255,255,255,0.12)"/>
+  <text x="170" y="396" fill="#fff4fa" font-size="38" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="6">ELWLAMACI4</text>
+  <rect x="625" y="340" width="220" height="90" rx="18" fill="#63ffb9"/>
+  <text x="690" y="396" fill="#140f17" font-size="34" font-weight="700" font-family="Arial, Helvetica, sans-serif">COPY</text>
+</svg>
